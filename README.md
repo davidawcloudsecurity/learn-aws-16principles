@@ -1,8 +1,6 @@
 # learn-aws-16principles
 ### "Tell me about a time when you had to earn trust from your team or stakeholders."
 
-### **Refined Answer:**  
-
 - **Situation:** I was part of the development team and was assigned to fix a UI bug that an end user had reported. Initially, it seemed like a minor issue affecting just one page.  
 
 - **Task:** My responsibility was to resolve this bug and present the fix in a meeting the following week. However, as I started investigating, I discovered that the issue was actually present across multiple pages. Despite this, my manager instructed me to focus only on fixing the reported instance and present that.  
